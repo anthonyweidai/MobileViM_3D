@@ -1,5 +1,5 @@
 # MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis
-Welcome to the official implementation of ``MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis''. This repository provides a comprehensive toolkit optimized for deep learning and computer vision applications, particularly focusing on 3D semantic segmentation. It includes functionalities for visualizing training progress, logging activities, and computing standard performance metrics.
+Welcome to the official implementation of ``[MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis](https://arxiv.org/abs/2502.13524)''. This repository provides a comprehensive toolkit optimized for deep learning and computer vision applications, particularly focusing on 3D semantic segmentation. It includes functionalities for visualizing training progress, logging activities, and computing standard performance metrics.
 
 <p align="center" width="100%">
     <img width="100%" src=./readme/architecture_animation.gif>
