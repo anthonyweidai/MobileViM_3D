@@ -167,8 +167,12 @@ For any scholarly use of these datasets, please consider citing the relevant pap
 }
 
 @misc{dai2025mobilevim,
-  title={MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis},
-  author={Dai, Wei and Wang, Steven and Liu, Jun},
-  year={2025},
+      title={MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis},
+      author={Dai, Wei and Wang, Steven and Liu, Jun},
+      year={2025},
+      eprint={2502.13524},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.13524}, 
 }
 ~~~
