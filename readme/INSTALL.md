@@ -22,7 +22,7 @@ Following Anaconda installation, proceed as follows:
 2. Clone the repository: 
 
     ~~~
-    git clone git@github.com:anthonyweidai/MobileViM.git
+    git clone git@github.com:anthonyweidai/MobileViM_3D.git
     ~~~
 
 3. Install required Python packages:
