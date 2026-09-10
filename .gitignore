@@ -25,13 +25,7 @@ Backup
 output
 dataset
 savemodel
-savemodel_ref
-shell/erst
-resultPlot/data
 ## System folder
 .vscode
 *.egg-info
 __pycache__
-
-## data folder and file
-!lib/data/dataset
