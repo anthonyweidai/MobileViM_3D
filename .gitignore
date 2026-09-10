@@ -1,0 +1,37 @@
+# data
+*.so
+*.zip
+*.txt
+*.pth
+*.pkl
+*.exe
+*.csv
+*.xlsx
+*.egg-info
+
+# Temporary files
+test*.py
+temp.py
+
+# Folder
+exp
+runs
+test
+temp
+build
+cloud
+clound
+Backup
+output
+dataset
+savemodel
+savemodel_ref
+shell/erst
+resultPlot/data
+## System folder
+.vscode
+*.egg-info
+__pycache__
+
+## data folder and file
+!lib/data/dataset
