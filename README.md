@@ -16,7 +16,7 @@ Welcome to the official implementation of ``[MobileViM: A Light-weight and Dimen
     <br>Dual-direction Mamba.
 </p>
 
-**The manuscript is currently under review by a peer-reviewed journal. The full code is accessible only to the reviewers and will be made publicly available upon the manuscript's acceptance.**
+**The manuscript is currently under review at a peer-reviewed journal. The full code is now publicly accessible.**
 
 
 ## Setup
